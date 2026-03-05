@@ -1,0 +1,19 @@
+body{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    background-image: url(https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fimg.freepik.com%2Ffotos-premium%2Ftextura-escama-dragon-fondo-piel-dinosaurio-dragon-escama-pez-sirena-reptil-o-fantasia_987686-15638.jpg%3Fw%3D2000&f=1&nofb=1&ipt=436a98735990f8252e5b7dc493c591c5cce4d0a6524463c8a8efce4887cb9b4e) ;
+    background-size: cover;
+}
+
+select {
+    font-size: 60px;
+    width: 25vh;
+    padding: 8px;
+    margin: 50px;
+}
+
+.character-image {
+    width: 50vh;
+}
+
